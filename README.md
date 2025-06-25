@@ -1,1 +1,1 @@
-# learning-recipes
+The current project is meant for practicing HTML by building a simple recipe website. It should improve my Git and HTML knowledge.
