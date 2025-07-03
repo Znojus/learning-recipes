@@ -17,7 +17,7 @@ body {
 body,
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(29, 29, 29);
+    color: rgb(75 45 0);
 }
 
 h1 {
@@ -28,13 +28,26 @@ h1 {
     color: #ffffff;
 }
 
+h2 {
+    background-color: #fff7eb;
+    width: 350px;
+    text-align: left;
+    padding: 14px;
+    color: rgb(75 45 0);
+}
+
+ul,
+ol {
+    margin: 16px;
+}
+
 .recipe-list {
-    margin-top: 16px;
+    margin: 16px 0 0 0;
 }
 
 .recipe-list li{
     display: inline-block;
-    background-color: rgb(255, 238, 161);
+    background-color: rgb(255 251 233);
     text-align: center;
     padding: 40px 0;
     font-size: 20px;
